@@ -1,6 +1,6 @@
 ## release history
 
-0.1.47
+0.1.49
 - fixed tooltip
 - added path selection options
 
