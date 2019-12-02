@@ -1,5 +1,9 @@
 ## release history
 
+0.2.7
+- new transcript visualization
+- bug fixes
+
 0.1.49
 - fixed tooltip
 - added path selection options
